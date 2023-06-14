@@ -1,4 +1,24 @@
 # ゴールデンカムイ非公式寄付企画のまとめ
+## 企画詳細
+・ページ
+
+https://pictspace.net/items/detail/264366
+
+・アーカイブ
+
+https://web.archive.org/web/20230000000000*/https://pictspace.net/items/detail/264366
+
+https://archive.md/https://pictspace.net/items/detail/264366
+
+## 問題点
+・集英社が著作権を持つゴールデンカムイの作品名やキャラクターを使用した不特定多数への集金
+
+・寄付やクラファンサイトではなく自家通販サービスサイトpictSPACEを利用
+
+・企画内容を度々削除変更してその履歴や告知がない
+
+・企画者が寄付に対して控除を受けないことが証明できない
+
 ## 企画者
 ・Twitter
 
@@ -24,26 +44,6 @@ https://twitter.com/fftmcrowd
 https://twitter.com/GK04702961
 
 https://twitter.com/fbk40245144
-
-## 企画詳細
-・ページ
-
-https://pictspace.net/items/detail/264366
-
-・アーカイブ
-
-https://web.archive.org/web/20230000000000*/https://pictspace.net/items/detail/264366
-
-https://archive.md/https://pictspace.net/items/detail/264366
-
-## 問題点
-・集英社が著作権を持つゴールデンカムイの作品名やキャラクターを使用した不特定多数への集金
-
-・寄付やクラファンサイトではなく自家通販サービスサイトpictSPACEを利用
-
-・企画内容を度々削除変更してその履歴や告知がない
-
-・企画者が寄付に対して控除を受けないことが証明できない
 
 ## 関連URL
 ・商標登録
